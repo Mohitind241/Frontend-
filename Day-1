@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heading Paragraph and emmet</title>
+</head>
+<body>
+    <h1>Mohit</h1>
+    <h2>Mohit</h2>
+    <h3>Mohit</h3>
+    <h4>Mohit</h4>
+    <h5>Mohit</h5>
+    <h6>Mohit</h6>
+    <p>this is mohit</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta dolorum magnam delectus fuga obcaecati minima odit odio beatae accusantium, molestiae mollitia quisquam libero eum exercitationem ratione dolores numquam qui!</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non, neque veniam, deserunt expedita nulla iusto pariatur magni, sunt excepturi earum totam. Corrupti nisi exercitationem illo unde quasi, officiis tempore quod.</p>
+
+</body>
+</html>
